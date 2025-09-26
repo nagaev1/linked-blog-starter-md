@@ -1,0 +1,2 @@
+[[dbeaver]]
+[[IDE]]
